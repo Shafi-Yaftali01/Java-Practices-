@@ -21,6 +21,9 @@ public class Main {
     warehouse.inventories = "PlaceHolder for now ";
     warehouse.whareHouseId = 222;
     warehouse.whareHouseName = "Future Planet";
-    
+
+    System.out.println("Product ID: " + inventory.product.productId + ", Name: " + inventory.product.productName + ", Price: " + inventory.product.price);
+    System.out.println("Inventory Quantity: " + inventory.quantity);
+    System.out.println("Warhouse ID: " +  warehouse.whareHouseId + ", Name: " + warehouse.whareHouseName);
   }
 }
