@@ -1,8 +1,0 @@
-package Packages.footballtournament;
-
-public class Tournament {
-  String name; 
-  String teams;
-  String matches; 
-  
-}
