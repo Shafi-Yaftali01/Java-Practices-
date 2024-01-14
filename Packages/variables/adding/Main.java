@@ -2,6 +2,7 @@ package variables.adding;
 
 public class Main {
   public static void main(String[] args){
+    // Using Primitive Data Types. 
     int numOne = 6;
     int numTwo = 10;
     float numThre = 30300;
@@ -11,7 +12,7 @@ public class Main {
     int addTwoNum = numOne + numTwo;
     float dividFloats = numThre / numFour;
     double multiplyDouble = numFive * numSix;
-    
+
     // Printing Result on compiler
 
     System.out.println("Adding Result: " + addTwoNum);
