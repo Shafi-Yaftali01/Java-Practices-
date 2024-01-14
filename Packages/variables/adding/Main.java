@@ -11,8 +11,9 @@ public class Main {
     int addTwoNum = numOne + numTwo;
     float dividFloats = numThre / numFour;
     double multiplyDouble = numFive * numSix;
-
     
+    // Printing Result on compiler
+
     System.out.println("Adding Result: " + addTwoNum);
     System.out.println("Dividing Result: " + dividFloats);
     System.out.println("Multiplying Result: " + multiplyDouble);
