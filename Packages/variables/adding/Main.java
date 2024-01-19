@@ -7,7 +7,7 @@ public class Main {
     int numTwo = 10;
     float numThre = 30300;
     float numFour = 44;
-    double numFive = 3.3;
+    double numFive = 3.4;
     double numSix = 1.3;
     int addTwoNum = numOne + numTwo;
     float dividFloats = numThre / numFour;
