@@ -3,7 +3,7 @@ package variables.adding;
 public class Main {
   public static void main(String[] args){
     // Using Primitive Data Types. 
-    int numOne = 6;
+    int numOne = 8;
     int numTwo = 10;
     float numThre = 30300;
     float numFour = 44;
