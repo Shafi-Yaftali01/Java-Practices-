@@ -13,11 +13,11 @@ public class Main {
 
     }
     else if(age > 12 || age < 18) {
-      System.out.println("Please Pay Ten Dollar fist.");
+      System.out.println("Please Pay Ten Dollar first.");
     }
     else {
-      System.out.println("Please Pay 15 Dollar fist."); 
-      
+      System.out.println("Please Pay 15 Dollar first."); 
+
     }
   }
 }
