@@ -1,4 +1,4 @@
-package ifStatement.fileOne.fileTwo;
+package ifStatement.fileOne.statements;
 
 public class Main {
   public static void main(String[] args) {
